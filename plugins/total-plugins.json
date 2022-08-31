@@ -200,6 +200,7 @@
         "cmds": [
           "沙拉查词",
           "saladict",
+          "翻译",
           {
             "type": "over",
             "label": "沙拉查词"
